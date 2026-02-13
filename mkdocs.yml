@@ -11,3 +11,4 @@ nav:
   - Дисциплины: disciplines/index.md
   - Гайды: guides/index.md
   - База задач / практикум: practice/index.md
+  - Деплой: deploy.md
