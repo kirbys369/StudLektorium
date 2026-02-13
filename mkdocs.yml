@@ -1,0 +1,13 @@
+site_name: StudLektorium
+site_description: Учебный портал с дисциплинами, гайдами и практикумом
+site_url: http://localhost:8000
+
+theme:
+  name: material
+  language: ru
+
+nav:
+  - Главная: index.md
+  - Дисциплины: disciplines/index.md
+  - Гайды: guides/index.md
+  - База задач / практикум: practice/index.md
